@@ -8,14 +8,14 @@
     } */
     
     
-    body {
+    /* body {
     font-family:var(--font-main); 
     color: var(--text-color-dark); 
-    }
+    } */
     
     
     /* reset start */
-    h1,
+    /* h1,
     h2,
     h3,
     p {
@@ -39,11 +39,11 @@
     display: block;
     max-width: 100%; 
     height: auto;
-    }
+    } */
     /* reset end */
     
     
-    .section {
+    /* .section {
     padding-top: 94px;
     padding-bottom: 94px;
     }
@@ -54,24 +54,24 @@
     padding-left: 15px;
     margin-left: auto;
     margin-right: auto;
-    
+    } */
    /* outline: 2px solid red;
     outline-offset: -2px;*/
-    }
     
-    .button {
+    
+    /* .button {
     display: inline-block;
     cursor: pointer;
     border: transparent;
-    }
+    } */
     
-    .section__title {
+    /* .section__title {
     font-size: 36px;
     line-height: 1.14;
     text-align: center;
     letter-spacing: 0.03em;
-    }
-    .title-vissualy-hidden{
+    } */
+    /* .vissualy-hidden{
     position: absolute;
     white-space: nowrap;
     width: 1px;
@@ -82,15 +82,15 @@
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     margin: -1px;
-    }
+    } */
     /*---------HEADER--------*/
-    .header {
+    /* .header {
     border-bottom: 1px solid #ECECEC;
     }
     .header__container{
     display: flex;
-    }
-    .nav{
+    } */
+    /* .nav{
     display: flex; 
     }
     .nav__logo {
@@ -149,8 +149,8 @@
     height: 4px;
     background-color: var(--accent-color);
     border-radius: 2px; 
-    }
-    .header__list{
+    } */
+    /* .header__list{
     display: flex;
     margin-left: auto;
     align-items: center;
@@ -183,11 +183,11 @@
     }
     .header__icon{
     fill:currentColor;
-    }
+    } */
     
     
     /*------------HERO-----------*/
-    .hero{
+    /* .hero{
     height: 600px;
     max-width: 1600px;
     margin: 0 auto;
@@ -236,10 +236,10 @@
     .hero-button:hover,
     .hero-button:focus{
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    }
+    } */
     
     /*------FEATURE---------*/
-    .feature {
+    /* .feature {
     padding-bottom: 0;
     }
     .feature__container {
@@ -279,7 +279,7 @@
     letter-spacing: 0.03em;
     color: var(--text-color-paragraf);
     }
-    
+     */
     
     /*-------WORK----------*/
     
@@ -321,7 +321,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--text-color-light);
-    }
+    } */
     
     /*--------OUR TEAM--------*/
     .ourteam{

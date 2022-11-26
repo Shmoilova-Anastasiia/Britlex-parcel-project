@@ -1,1 +1,12 @@
-@import 'utils/variables';
+@import './utils/variables';
+@import './utils/mixins';
+@import './utils/visually-hidden';
+
+@import './base/base';
+@import './base/reset';
+
+@import './components/button';
+@import './components/header';
+@import './components/nav';
+@import './components/hero';
+@import './components/feature';
